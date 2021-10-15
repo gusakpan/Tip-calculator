@@ -1,2 +1,3 @@
 # Tip-calculator
-This is a Tip Calculator I designed using just HTML & CSS!
+I designed this tip-calculator using just HTML & CSS!
+P.S It has no functionality yet.
